@@ -6,6 +6,10 @@
 
 :earth_americas: I live in Jalisco, Mexico
 
+---
+
+### Lenguajes y tecnologias 🛠
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-E00033?style=for-the-badge&logo=CSS&logoColor=white)
