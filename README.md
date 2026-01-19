@@ -4,7 +4,7 @@ _"Understanding the world's logical gates and making it turn through technology.
 
 💻 System Engineer
 
-🎺 Regional Mexcian music lover
+🎺 Regional Mexican music lover
 
 🌎 Jalisco, Mexico
 
