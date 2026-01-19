@@ -4,9 +4,9 @@ _"Understanding the world's logical gates and making it turn through technology.
 
 💻 System Engineer
 
-🎺 I love regional Mexican music
+🎺 Regional Mexcian music lover
 
-🌎 I live in Jalisco, Mexico
+🌎 Jalisco, Mexico
 
 ⚽🏎️⚾ Soccer, car racing and baseball lover
 
