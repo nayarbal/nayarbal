@@ -3,10 +3,14 @@
 _"Understanding the world's logical gates and making it turn through technology."_
 
 💻 System Engineer
+
 🎺 I love regional Mexican music
+
 🌎 I live in Jalisco, Mexico
+
 ⚽🏎️⚾ Soccer, car racing and baseball lover
-:morthar_board: Tecnologico Superior de Jalisco
+
+:mortar_board: Tecnologico Superior de Jalisco
 
 ---
 
